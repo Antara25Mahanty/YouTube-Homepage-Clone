@@ -17,8 +17,8 @@ You can view the site here:
 
 ## Tools Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - VS Code
 
 ## Credits
